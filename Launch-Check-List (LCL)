@@ -1,0 +1,52 @@
+Time (still to define) 	Event
+T-0:30:00              	Rocket to Vertical
+
+T-0:25:00              	Countdown Initiation, Launch Vehicle Power-Up
+
+T-0:20:00              	First Weather Check
+
+T-0:18:00              	Rocket RF & Telemetry Checks
+
+T-0:16:00               Recovery System Release Test
+
+T-0:15:00             	RF Link & Checks
+
+T-0:14:00              	Data Flow Tests
+
+T-0:13:00               Launch Area Evacuation
+
+T-0:12:00              	Blast Danger Area Clear, Roadblocks Established
+
+T-0:10:00  	            Weather Briefing
+
+T-0:06:00  	            Automated Countdown Sequence
+
+T-0:05:30  	            Flight Control System Setup (Flight Software Loading)
+T-0:05:00 	            Go/No Go
+T-0:05:00  	            Auto Sequence Start (Only if auto igniter installed)
+
+T-0:04:50               Range Readiness Check
+T-0:04:30               Countdown Recycle Point
+T-0:04:00              	Flight Software Final Setups complete
+
+T-0:03:30              	Flight Computers in Self-Alignment
+T-0:03:15             	Rocket to Internal Power
+T-0:03:00              	Range Voice Checks
+
+T-0:02:45              	Flight Termination System to Internal Power
+T-0:02:40              	FTS on Internal
+T-0:02:35             	Flight Termination System Armed, FTS Ready for Launch
+T-0:02:30               FTS Countdown Sequence
+T-0:02:10               Igniter Purge Complete
+
+T-0:02:00 	            Rocket Transfer to Internal Power Complete
+T-0:01:30 	            Self-Align Verification
+T-0:01:10 	            Final FTS/AFSS Status Check
+
+T-0:01:00 	            Flight Computer to start-up
+T-0:00:45 	            Launch Director: Go for Launch
+T-0:00:30 	            HOLD Call for Abort
+T-0:00:15 	            Vehicle Configured for Flight
+T-0:00:10 	            Latest VC Abort
+T-0:00:00 	            Strongback Kickback at Liftoff
+T-0:00:00 	            LIFTOFF
